@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Lukh2010/Lukh2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on an exciting project that involves Databases.
+- 🌱 I’m currently learning programming programs.
+- 💬 Feel free to give me advice or ideas for my projects.
+- 📫 How to reach me: for example you could create an issue on one of my projects.
 
-Here are some ideas to get you started:
+### About Me
+I'm passionate about building impactful projects and constantly learning new things. Coding is a powerful skill that I enjoy using to create innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills
+- Programming Languages: Python & html
+- Web Development: Node.js & html etc.
+- Tools & Technologies: Git & Docker etc.
+
+### Let's Connect!
+I'm always open to discussing new ideas, opportunities, or just chatting about tech stuff. Feel free to reach out!
